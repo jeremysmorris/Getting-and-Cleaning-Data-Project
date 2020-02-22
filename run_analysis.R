@@ -1,5 +1,3 @@
-rm(list=ls())
-setwd("~/Dropbox/Data_Science/Coursera_Course/UCI HAR Dataset")
 library(data.table)
 library(tidyverse)
 
